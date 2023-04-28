@@ -20,13 +20,13 @@ Type in the searchbox the Pokemon name.
 To see the data fetched with SSR, go to `localhost:3000/pureSSR`.
 
 ## Disclaimer
-*This web project is an educational and non-commercial endeavor created for studying purposes only. It is not affiliated with GameFreak, Nintendo, the Pokemon Company, or any other organization involved in the production or distribution of Pokemon-related content.
+*This web project is an educational and non-commercial endeavor created for studying purposes only. It is not affiliated with GameFreak, Nintendo, the Pokemon Company, or any other organization involved in the production or distribution of Pokemon-related content.*
 
-The Pokedex search functionality provided by this project is based on publicly available information and is intended solely for educational and entertainment purposes. We do not claim ownership or authorship of any of the Pokemon-related data displayed by this project, and all intellectual property rights belong to their respective owners.
+*The Pokedex search functionality provided by this project is based on publicly available information and is intended solely for educational and entertainment purposes. We do not claim ownership or authorship of any of the Pokemon-related data displayed by this project, and all intellectual property rights belong to their respective owners.*
 
-This project is not intended to promote or endorse any particular product, service, or brand. The use of any Pokemon-related trademarks or logos is solely for the purpose of providing context and reference.
+*This project is not intended to promote or endorse any particular product, service, or brand. The use of any Pokemon-related trademarks or logos is solely for the purpose of providing context and reference.*
 
-By using this web project, you acknowledge and agree that we shall not be liable for any damages, losses, or expenses arising from the use of this project or the information contained herein. You also agree to use this project responsibly and in compliance with all applicable laws and regulations.*
+*By using this web project, you acknowledge and agree that we shall not be liable for any damages, losses, or expenses arising from the use of this project or the information contained herein. You also agree to use this project responsibly and in compliance with all applicable laws and regulations.*
 
 #
 
