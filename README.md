@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next + Redux Pokedex
 
-## Getting Started
+Small app using NextJS13 with redux client-sided and server-sided.
 
-First, run the development server:
+## How to use
+
+Clone the repo, install it and open in browser.
 
 ```bash
+git clone https://www.github.com/volinha/pokedex-next-redux
+cd pokedex-next-redux
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Type in the searchbox the Pokemon name.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## SSR
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+To see the data fetched with SSR, go to `localhost:3000/pureSSR`.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Disclaimer
+*This web project is an educational and non-commercial endeavor created for studying purposes only. It is not affiliated with GameFreak, Nintendo, the Pokemon Company, or any other organization involved in the production or distribution of Pokemon-related content.
 
-## Learn More
+The Pokedex search functionality provided by this project is based on publicly available information and is intended solely for educational and entertainment purposes. We do not claim ownership or authorship of any of the Pokemon-related data displayed by this project, and all intellectual property rights belong to their respective owners.
 
-To learn more about Next.js, take a look at the following resources:
+This project is not intended to promote or endorse any particular product, service, or brand. The use of any Pokemon-related trademarks or logos is solely for the purpose of providing context and reference.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+By using this web project, you acknowledge and agree that we shall not be liable for any damages, losses, or expenses arising from the use of this project or the information contained herein. You also agree to use this project responsibly and in compliance with all applicable laws and regulations.*
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### 💻 Developed with 💖 by Vinícius Fernandes
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/viniciusfvb)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viniciusfernandesdev/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/volafernandes)
+<a href = "mailto:viniciusfernandesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br />
