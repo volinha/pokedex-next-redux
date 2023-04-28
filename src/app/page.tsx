@@ -17,7 +17,7 @@ export default async function Home() {
     <Head>
       <title>Pokemon</title>
     </Head>
-    <main className='bg-slate-800'>
+    <main className='bg-slate-800 w-full h-full'>
       <Preloader pokemons={data}/>
       <Providers>
         <SearchInput />
